@@ -1,0 +1,5 @@
+[general]
+backend = "faunadb"
+
+[authentication]
+secret = SECRET
